@@ -1,0 +1,6 @@
+[function]
+name = "strapi"
+runtime = "nodejs16"
+
+[build]
+command = "npm run build"
